@@ -25,15 +25,15 @@ Este projeto consiste em um sistema de lista de tarefas desenvolvido em HTML, CS
 
 **Estilização Personalizada** 
     
-    - Aplicamos estilos CSS para tornar o layout mais agradável e intuitivo, com cores, fontes e espaçamentos bem definidos.
+    - Apliquei estilos CSS para tornar o layout mais agradável e intuitivo, com cores, fontes e espaçamentos bem definidos.
 
 **Interatividade na Lista de Tarefas**
 
-    - Implementamos a confirmação de exclusão ao clicar e segurar uma tarefa por um tempo.
+    - Implementei a confirmação de exclusão ao clicar e segurar uma tarefa por um tempo.
 
 **Organização do Código** 
 
-    - Mantivemos o código JavaScript separado do HTML e CSS para uma melhor organização e manutenção do projeto.
+    - Mantive o código JavaScript separado do HTML e CSS para uma melhor organização e manutenção do projeto.
 
 
 ## Como Testar o Projeto ##
