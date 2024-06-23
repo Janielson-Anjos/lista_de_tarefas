@@ -38,6 +38,14 @@ Este projeto consiste em um sistema de lista de tarefas desenvolvido em HTML, CS
 
 ## Como Testar o Projeto ##
 
+**Github Pages**
+
+1. Abra o link https://janielson-anjos.github.io/lista_de_tarefas/
+
+2. Adicione tarefas, e teste a funcionalidade de exclusão ao clicar em uma tarefa.
+
+**Local**
+
 1. Clone o repositório:
 
 ```bash
@@ -45,7 +53,7 @@ git clone https://github.com/Janielson-Anjos/lista_de_tarefas.git
 ```
 2. Abra o arquivo index.html em seu navegador.
 
-3. Adicione tarefas, e teste a funcionalidade de exclusão ao clicar e segurar em uma tarefa.
+3. Adicione tarefas, e teste a funcionalidade de exclusão ao clicar em uma tarefa.
 
 ### Conclusão ###
 
