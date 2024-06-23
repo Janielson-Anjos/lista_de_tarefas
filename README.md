@@ -13,7 +13,7 @@ Este projeto consiste em um sistema de lista de tarefas desenvolvido em HTML, CS
 
 2. **Remover Tarefa**
 
-    - Ao clicar e segurar por um determinado tempo (configurável), uma confirmação é exibida para permitir a exclusão da tarefa selecionada.
+    - Ao clicar na tarefa, uma confirmação é exibida para permitir a exclusão da tarefa selecionada.
 
 ### Estrutura do Projeto ###
 
