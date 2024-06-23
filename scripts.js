@@ -14,10 +14,6 @@ function addTask(period) {
             }
         });
 
-        newTask.addEventListener('dblclick', () => {
-            newTask.classList.toggle('completed');
-        });
-
         taskList.appendChild(newTask);
         input.value = '';
     }
